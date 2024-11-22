@@ -13,7 +13,3 @@
 </h3>
 <img src = "output.png">
 
-<h3>
-  The output shows like this after playing the game for some time:-
-</h3>
-<img src ="17.11.2024_18.32.55_REC.png" >
